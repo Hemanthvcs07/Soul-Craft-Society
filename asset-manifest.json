@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/soul-craft-society/static/css/main.016c99f6.css",
+    "main.js": "/soul-craft-society/static/js/main.67f435e9.js",
+    "static/js/453.1dde8b4e.chunk.js": "/soul-craft-society/static/js/453.1dde8b4e.chunk.js",
+    "static/media/LOGO.svg": "/soul-craft-society/static/media/LOGO.e672fa4a3eb713bf7f395421fc95a6e4.svg",
+    "static/media/QR.png": "/soul-craft-society/static/media/QR.c633906c073c1b3cae70.png",
+    "index.html": "/soul-craft-society/index.html",
+    "main.016c99f6.css.map": "/soul-craft-society/static/css/main.016c99f6.css.map",
+    "main.67f435e9.js.map": "/soul-craft-society/static/js/main.67f435e9.js.map",
+    "453.1dde8b4e.chunk.js.map": "/soul-craft-society/static/js/453.1dde8b4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.016c99f6.css",
+    "static/js/main.67f435e9.js"
+  ]
+}
